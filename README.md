@@ -1,2 +1,2 @@
 # ValidadorCPF
- Validar de CPF com JS
+ Validador de CPF com JS
